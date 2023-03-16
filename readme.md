@@ -29,7 +29,7 @@ https://disk.yandex.ru/i/9AuLkzsd55083w - link to download video
 
 This project was inspired by the many great examples and tutorials available online on image classification with CNNs. Special thanks to the TensorFlow and Pytorch teams for providing excellent libraries for deep learning in Python.
 
-##License
+## License
 
 This project is licensed under the MIT License
 
