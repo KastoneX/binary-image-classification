@@ -29,6 +29,10 @@ https://disk.yandex.ru/i/9AuLkzsd55083w - link to download video
 
 This project was inspired by the many great examples and tutorials available online on image classification with CNNs. Special thanks to the TensorFlow and Pytorch teams for providing excellent libraries for deep learning in Python.
 
+##License
+
+This project is licensed under the MIT License
+
 ## Get in touch
 
 <p> <a href="mailto:timofeevkarakozovartem@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://www.kaggle.com/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a></p>
