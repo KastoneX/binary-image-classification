@@ -17,6 +17,7 @@ The following packages are required to run the code:
 - NumPy
 - TensorFlow (>= 2.0)
 - Keras (>= 2.0)
+- PyTorch (>= 1.0)
 
 ## Dataset
 
@@ -24,16 +25,11 @@ https://drive.google.com/file/d/1yhNKlZ52q6XlnZZe8KIQPYgFGiV5LkPA/view?usp=shari
 
 https://disk.yandex.ru/i/9AuLkzsd55083w - link to download video
 
-## Usage
+## Acknowledgments
 
-To run the code, simply clone this repository and run the `binary_image_classification.py` script:
+This project was inspired by the many great examples and tutorials available online on image classification with CNNs. Special thanks to the TensorFlow and Pytorch teams for providing excellent libraries for deep learning in Python.
 
-```bash
-git clone https://github.com/KastoneX/binary-image-classification.git
-cd binary-image-classification
-python binary_image_classification.py
-```
+## Get in touch
 
-https://www.kaggle.com/kastonex - My Kaggle profile
-
+<p> <a href="mailto:timofeevkarakozovartem@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://www.kaggle.com/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a></p>
 
